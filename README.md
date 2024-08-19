@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roman Chhatkuli</h1>
 <h3 align="center">A passionate web developer from Nepal</h3>
+<div display="flex" align="center"> <img src="photo.gif" alt="coding gif"/></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romanchhatkuli&label=Profile%20views&color=0e75b6&style=flat" alt="romanchhatkuli" /> </p>
 
@@ -9,7 +10,7 @@
 
 - 📫 How to reach me **romanchhatkuli09@gmail.com**
 
-<img src="photo.gif" alt="coding gif" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
